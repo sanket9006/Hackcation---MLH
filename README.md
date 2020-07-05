@@ -15,9 +15,12 @@
 
 > In order to see my work (demo) you can click here [http://35.203.134.78](http://35.203.134.78/)                              
 
-> [Google Analytics - Screensots](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Collected%20Data.JPG)                              
+> [Google Analytics - Screensot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Collected%20Data.JPG)                              
 
-> In order to see my work (demo) you can click here [http://35.203.134.78](http://35.203.134.78/)                              
+> [Google Data Studio - Screensot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Data%20Studio.JPG)           
+
+> [Wordpress by Bitnami](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/4.JPG)                              
+
 
 
 
