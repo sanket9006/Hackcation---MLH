@@ -17,7 +17,7 @@
 
 > [Google Analytics - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Collected%20Data.JPG)                              
 
-> [Google Data Studio - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Data%20Studio.JPG)           
+> [Google Data Studio - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Google%20Data%20Studio.JPG)           
 
 > [Wordpress by Bitnami - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/4.JPG)                              
 
