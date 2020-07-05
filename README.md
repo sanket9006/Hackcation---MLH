@@ -12,4 +12,5 @@
 ![image](https://github.com/sanket9006/Hackcation---MLH/blob/master/1_bf8nI--JYvVpGY5_MLoXJw%20-%20Copy.jpeg)
 
 
-![image](https://github.com/sanket9006/Hackcation---MLH/blob/master/1%20(1).png)
+
+<img src="https://github.com/sanket9006/Hackcation---MLH/blob/master/1%20(1).png" width="200" height="400" />
