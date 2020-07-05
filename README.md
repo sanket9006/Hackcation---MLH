@@ -13,7 +13,7 @@
 
 
 
-<img align="center" src="https://github.com/sanket9006/Hackcation---MLH/blob/master/999.jpg" width="400" height="1350" />
+<img align="center" src="https://github.com/sanket9006/Hackcation---MLH/blob/master/999.jpg" width="450" height="1350" />
 
 
 <img align="center" width="100" height="100" src="https://github.com/sanket9006/Hackcation---MLH/blob/master/999.jpg">
