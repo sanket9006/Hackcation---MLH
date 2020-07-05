@@ -11,9 +11,9 @@
  
 ![image](https://github.com/sanket9006/Hackcation---MLH/blob/master/1_bf8nI--JYvVpGY5_MLoXJw%20-%20Copy.jpeg)
 
-> In order to see my work (demo) you can click here [http://35.203.134.78](http://35.203.134.78/)                              
+> [Google Cloud for Hosting VM - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/3.JPG)         
 
-> In order to see my work (demo) you can click here [http://35.203.134.78](http://35.203.134.78/)                              
+> [Google Cloud Monitering - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/2.JPG)         
 
 > [Google Analytics - Screenshot](https://github.com/sanket9006/Hackcation---MLH/blob/master/Screenshots/Collected%20Data.JPG)                              
 
