@@ -1,4 +1,4 @@
-![image](https://github.com/sanket9006/Hackcation---MLH/blob/master/Hackation.JPG)
+![image](https://github.com/sanket9006/Hackcation---MLH/blob/master/full_width.jpeg)
 
                       
 **Project Description :-**
